@@ -1,6 +1,6 @@
 # AceBook
 
-A social networking application built using ruby on rails
+A social networking application built using ruby on rails.
 
 ## To run project on heroku
 
@@ -13,7 +13,7 @@ First, clone this repository. Then:
 ```bash
 > bundle install
 > bin/rails db:create
-> bin/rails db:migrate 
+> bin/rails db:migrate
 
 > bundle exec rspec # Run the tests to ensure it works
 > bin/rails server # Start the server at localhost:3000
@@ -37,7 +37,7 @@ I should be redirected to the homepage when I visit any other url
 
 As a new User
 So that I can sign up
-I would like to provide a email and password 
+I would like to provide a email and password
 
 As a new user
 So I can enter my email accurately
